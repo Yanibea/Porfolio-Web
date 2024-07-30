@@ -9,6 +9,10 @@ h2 {
   #yo {
     text-align: justify;
 }
+.contacto{
+    width: 70px;
+    size:  20px;
+}
   body{
     background-color: rgb(223, 101, 168);
     font-family: Vegur, 'PT Sans', Verdana, sans-serif;
